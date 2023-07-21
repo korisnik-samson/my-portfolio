@@ -170,7 +170,7 @@ const projects = [
         ],
         image: carrent,
         source_code_link: "https://github.com/korisnik-samson/travel-static",
-        weblink: "https://teoplay.netlify.app/"
+        weblink: "https://car-octo-system.vercel.app/"
     },
     {
         name: "Denver",
