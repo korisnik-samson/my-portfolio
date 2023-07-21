@@ -196,7 +196,7 @@ const projects = [
         ],
         image: denver,
         source_code_link: "https://github.com/korisnik-samson/denver",
-        weblink: "https://teoplay.netlify.app/"
+        weblink: "https://denver-sand.vercel.app"
     },
     {
         name: "Trip Guide",
