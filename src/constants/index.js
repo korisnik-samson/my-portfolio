@@ -1,7 +1,8 @@
-import { mobile, backend, creator, web, javascript, typescript,
+import {
+    mobile, backend, creator, web, javascript, typescript,
     html, css, reactjs, redux, tailwind, nodejs,
     mongodb, git, figma, docker, meta, starbucks,
-    tesla, shopify, carrent, jobit, tripguide, threejs, traveladvisor, denver
+    tesla, shopify, carrent, jobit, tripguide, threejs, traveladvisor, denver, singi
 } from "../assets";
 
 export const navLinks = [
@@ -125,11 +126,13 @@ const experiences = [
 const testimonials = [
     {
         testimonial:
-            "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-        name: "Sara Lee",
-        designation: "CFO",
-        company: "Acme Co",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+            "Samson was my student, one of the best, the most serious, and at the same time the most creative.\n" +
+            "Exceptional. Also, by far the youngest in the generation, which shows enough of his progress!\n" +
+            "Follow his step of development!",
+        name: "Petar Biševac",
+        designation: "Assistant Professor",
+        company: "Singidunum University",
+        image: singi,
     },
     {
         testimonial:
