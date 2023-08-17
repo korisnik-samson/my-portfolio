@@ -32,6 +32,7 @@ import tripguide from "./tripguide.png";
 import traveladvisor from "./traveladvisor.png"
 import denver from "./denver.png"
 import singi from "./singi.png";
+import threads from "./threads.png"
 
 export {
     logo,
@@ -64,5 +65,6 @@ export {
     tripguide,
     traveladvisor,
     denver,
-    singi
+    singi,
+    threads
 };

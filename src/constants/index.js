@@ -2,7 +2,7 @@ import {
     mobile, backend, creator, web, javascript, typescript,
     html, css, reactjs, redux, tailwind, nodejs,
     mongodb, git, figma, docker, meta, starbucks,
-    tesla, shopify, carrent, jobit, tripguide, threejs, traveladvisor, denver, singi
+    tesla, carrent, threejs, traveladvisor, denver, singi, threads
 } from "../assets";
 
 export const navLinks = [
@@ -223,6 +223,28 @@ const projects = [
         source_code_link: "https://github.com/korisnik-samson/travel-booking",
         weblink: "https://traveladviserr.netlify.app/"
     },
+    {
+        name: "Modern Threads",
+        description:
+            "A well tailored Full stack social media application, that makes connection and chatting seamlessly easy with user personalisations and many more",
+        tags: [
+            {
+                name: "NextJS",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "tailwindcss",
+                color: "green-text-gradient",
+            },
+            {
+                name: "MongoDB",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: threads,
+        source_code_link: "https://github.com/korisnik-samson/urban-threads-sans",
+        weblink: "https://urban-threads-sans.vercel.app/"
+    }
 ];
 
 export { services, technologies, experiences, testimonials, projects };
