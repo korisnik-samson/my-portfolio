@@ -2,8 +2,8 @@ import {
     mobile, backend, creator, web, javascript, typescript,
     html, css, reactjs, redux, tailwind, nodejs,
     mongodb, git, figma, docker, meta, starbucks,
-    tesla, carrent, threejs, traveladvisor, denver, singi, threads
-} from "../assets";
+    tesla, carrent, threejs, traveladvisor, denver, singi, threads, chess, binary_tree
+} from '../assets';
 
 export const navLinks = [
     {
@@ -248,6 +248,38 @@ const projects = [
         image: threads,
         source_code_link: "https://github.com/korisnik-samson/urban-threads-sans",
         weblink: "https://urban-threads-sans.vercel.app/"
+    },
+    {
+        name: "Console Chess",
+        description:
+            "A well tailored Console chess project, using all various C++ libraries to make a miniature chess engine, making it possible to play chess on the console window",
+        tags: [
+            {
+                name: "C++",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Windows Lib",
+                color: "blue-text-gradient",
+            },
+        ],
+        image: chess,
+        source_code_link: "https://github.com/korisnik-samson/console-chess-sans",
+        weblink: "https://github.com/korisnik-samson/console-chess-sans"
+    },
+    {
+        name: "Generic Binary Tree",
+        description:
+            "A modified yet well structured algorithm, based off of the original data structures, this utilizes all algorithms possible for every datatype",
+        tags: [
+            {
+                name: "Java",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: binary_tree,
+        source_code_link: "https://github.com/samson-offorjindu/Generic-Binary-Tree",
+        weblink: "https://github.com/samson-offorjindu/Generic-Binary-Tree"
     }
 ];
 

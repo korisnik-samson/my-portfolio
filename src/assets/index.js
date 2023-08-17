@@ -33,8 +33,14 @@ import traveladvisor from "./traveladvisor.png"
 import denver from "./denver.png"
 import singi from "./singi.png";
 import threads from "./threads.png"
+import git_hub from "./git_hub.jpg"
+import chess from "./chess.png"
+import binary_tree from "./binary_tree.jpg"
 
 export {
+    chess,
+    binary_tree,
+    git_hub,
     logo,
     backend,
     creator,
