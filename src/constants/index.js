@@ -229,6 +229,10 @@ const projects = [
             "A well tailored Full stack social media application, that makes connection and chatting seamlessly easy with user personalisations and many more",
         tags: [
             {
+                name: "React",
+                color: "blue-text-gradient",
+            },
+            {
                 name: "NextJS",
                 color: "blue-text-gradient",
             },
