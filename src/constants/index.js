@@ -2,7 +2,7 @@ import {
     mobile, backend, creator, web, javascript, typescript,
     html, css, reactjs, redux, tailwind, nodejs,
     mongodb, git, figma, docker, meta, starbucks,
-    tesla, carrent, threejs, traveladvisor, denver, singi, threads, chess, binary_tree
+    tesla, carrent, threejs, traveladvisor, denver, singi, threads, chess, binary_tree, paymentology
 } from '../assets';
 
 export const navLinks = [
@@ -152,7 +152,7 @@ const testimonials = [
         name: "David Praise",
         designation: "Project Manager",
         company: "Paymentology",
-        image: singi,
+        image: paymentology,
     },
 ];
 

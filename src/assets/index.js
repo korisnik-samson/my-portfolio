@@ -36,6 +36,7 @@ import threads from "./threads.png"
 import git_hub from "./git_hub.jpg"
 import chess from "./chess.png"
 import binary_tree from "./binary_tree.jpg"
+import paymentology from "./paymentology.jpg"
 
 export {
     chess,
@@ -72,5 +73,6 @@ export {
     traveladvisor,
     denver,
     singi,
-    threads
+    threads,
+    paymentology
 };
