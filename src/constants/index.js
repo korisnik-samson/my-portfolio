@@ -96,19 +96,6 @@ const technologies = [
 
 const experiences = [
     {
-        title: "Voluntary React.JS Developer",
-        company_name: "St. Matthew's Church",
-        icon: tesla,
-        iconBg: "#E6DEDD",
-        date: "Dec 2019 - Sept 2021",
-        points: [
-            "Developing and maintaining web applications for the church media using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, and other developers, making church media online and available",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    {
         title: "Frontend Developer",
         company_name: "FiveCore",
         icon: starbucks,
@@ -117,6 +104,19 @@ const experiences = [
         points: [
             "Developing and maintaining web applications using popular frontend development technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Voluntary React.JS Developer",
+        company_name: "St. Matthew's Church",
+        icon: tesla,
+        iconBg: "#E6DEDD",
+        date: "Dec 2019 - Sept 2021",
+        points: [
+            "Developing and maintaining web applications for the church media using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, and other developers, making church media online and available",
             "Implementing responsive design and ensuring cross-browser compatibility.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
