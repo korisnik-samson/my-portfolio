@@ -20,6 +20,7 @@ module.exports = {
     rules: {
         'react-refresh/only-export-components': 'off',
         'react/no-unknown-property': 'off',
+        'react/no-unescaped-entities': 'warn',
         'react/prop-types': 'off',
         'no-unused-vars': 'off',
         'no-undef': 'off'
