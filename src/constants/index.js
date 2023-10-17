@@ -146,10 +146,12 @@ const testimonials = [
     },
     {
         testimonial:
-            "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "Lisa Wang",
-        designation: "CTO",
-        company: "Singidunum University",
+            "From our first encounter, Samson has consistently exhibited exceptional progress and expertise in his domain.\n" +
+            "Transitioning from a novice seeking direction to a seasoned professional, his notable achievements bear witness to his capabilities.\n" +
+            "I strongly recommend him for forthcoming opportunities, confident that he will prove indispensable wherever he applies his talents.\n",
+        name: "David Praise",
+        designation: "Project Manager",
+        company: "Paymentology",
         image: singi,
     },
 ];
