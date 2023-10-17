@@ -136,9 +136,11 @@ const testimonials = [
     },
     {
         testimonial:
-            "I've never met a web developer who truly cares about their clients' success like Rick does.",
-        name: "Chris Brown",
-        designation: "COO",
+            "I met Samson in the course “Software Specification and Modeling”, which I teach in the second year at\n" +
+            "the Faculty of Technical Sciences, study program Software, and Data Engineering.\n" +
+            "Samson is a hardworking student, very focused, creative, and eager to learn new technologies.",
+        name: "Angelina Njeguš",
+        designation: "Professor",
         company: "Singidunum University",
         image: singi,
     },
